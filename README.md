@@ -1,8 +1,6 @@
-> **Note:** Please follow the [repository conventions](https://github.com/EsriDevEvents/contributor-guides/blob/main/conventions.md#conventions-for-repositories) and [slugify](https://slugify.online/) the title of your repo
+# ArcGIS: Building Real-Time Situational Awareness Solutions
 
-# Name of the session
-
-[Description of the session]
+Real-time situational awareness is a critical business need for organizations that require timely and accurate information to make informed decisions. ArcGIS includes configurable off-the-shelf technology and SDKs that allow you to build solutions to integrate data from multiple sources, analyze and visualize data to interpret the situation, and automate behaviors to detect events and send alerts. Join us to learn how to unlock the power of ArcGIS to create cutting-edge, real-time situational awareness solutions that transform data into actionable insights.
 
 ## Slides and recording
 
