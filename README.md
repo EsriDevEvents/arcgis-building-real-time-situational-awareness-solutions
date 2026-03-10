@@ -6,6 +6,5 @@ Real-time situational awareness is a critical business need for organizations th
 
 Most of the slides are made available at [Esri Events > Proceedings](https://www.esri.com/en-us/about/events/index/proceedings).
 
-## Related sessions
-
-...
+## Technical Sessions
+- [Esri Developer and Techology Summit - 2026](https://github.com/EsriDevEvents/arcgis-building-real-time-situational-awareness-solutions/blob/main/dats26/readme.md)
